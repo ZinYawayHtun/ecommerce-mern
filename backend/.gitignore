@@ -1,0 +1,19 @@
+# Dependencies (ဒါတွေက အရမ်းလေးလို့ မတင်ရဘူး)
+node_modules/
+
+# Environment Variables (ဒါက အရေးကြီးဆုံး - လုံခြုံရေးအတွက်)
+.env
+.env.local
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build files (တကယ်လို့ TypeScript သုံးရင်)
+dist/
+build/
